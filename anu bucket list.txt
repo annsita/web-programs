@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>To do</title>
+</head>
+<body>
+<h1>My bucket list</h1>
+<ul>
+<li>have my own library at home</li>
+<li>learn to play guitar</li>
+<li>be a part of a music band</li>
+<li>attend concerts of:</li>
+<ol>
+<li>Prateek Kuhad</li>
+<li>when chai met toast</li>
+<li>Local train</li>
+</ol>
+<li>get a dog</li>
+<li>travel the world</li>
+<li>get a tattoo</li>
+<li>try out adventure sports</li>
+</ul>
+<dl>
+<dt>alone</dt>
+<dd>bunjee jumping</dd>
+<dt>with friends</dt>
+<dd>sky diving</dd>
+</dl>
+<p><mark>Make each day count</mark></p>
+</body>
+</html>
